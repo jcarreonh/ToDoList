@@ -18,6 +18,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
